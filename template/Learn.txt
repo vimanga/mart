@@ -1,2 +1,9 @@
 CSS - 
     Flex , Flex-box
+
+
+React ajax -
+    watch useState and useEffect functions.
+
+
+when you add a proxy, you first need to run the backend and then run the frontend
